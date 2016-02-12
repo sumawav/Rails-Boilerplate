@@ -14,5 +14,7 @@
 <p class="notice"><%= notice %></p>
 <p class="alert"><%= alert %></p>
 ```
-*  optional: ```rails g devise:views```
+*  *optional:* ```rails g devise:views```
 *  ```rails g devise user```
+*  *optional:* modify migration - confirmation is nice
+  * remember to add confirmation to user model

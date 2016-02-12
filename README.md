@@ -4,3 +4,5 @@
 4. ```rake db:create```
 5. uncomment ```gem 'rails_12factor'```
 6. ```bundle install```
+7. ```rails g controller welcome index about```
+8. copy routes.rb

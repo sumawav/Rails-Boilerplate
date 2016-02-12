@@ -18,3 +18,4 @@
 *  ```rails g devise user```
 *  *optional:* modify migration - confirmation is nice
   * remember to add confirmation to user model
+*  ```rake db:migrate```

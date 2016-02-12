@@ -3,8 +3,8 @@
 *  ```bundle install --without production```
 *  ```rake db:create```
 *  uncomment ```gem 'rails_12factor'```
-*  ```rails generate rspec:install```
 *  ```bundle install```
+*  ```rails generate rspec:install```
 *  ```rails g controller welcome index about```
 *  copy routes.rb
 *  copy development.rb to config/environments

@@ -6,6 +6,7 @@
 *  ```bundle install```
 *  copy application.scss (replace application.css)
 *  ```rails generate rspec:install```
+*  copy spec/rails_helper.rb
 *  ```rails g controller welcome index about```
 *  copy routes.rb
 *  copy development.rb to config/environments
